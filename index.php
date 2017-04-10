@@ -63,6 +63,8 @@
             <li>JavaScript</li>
             <li>HTML5</li>
             <li>Java</li>
+        </ul>
+        <ul>
             <li>Visual C# .NET</li>
             <li>NodeJs (básico)</li>
             <li>PHP</li>
