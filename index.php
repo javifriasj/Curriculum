@@ -57,16 +57,11 @@
      <div class="textoMain2 textoMainAll">
         <h3>Conocimientos</h3>
         <p>
-            Lenguajes del lado del cliente.
+            Lenguajes.
         </p>
         <ul>
             <li>JavaScript</li>
             <li>HTML5</li>
-        </ul>
-        <p>
-            Lenguajes del lado del Servidor.
-        </p>
-        <ul>
             <li>Java</li>
             <li>Visual C# .NET</li>
             <li>NodeJs (básico)</li>
