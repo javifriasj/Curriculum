@@ -44,17 +44,17 @@
     <div class="textoMain1 textoMainAll">
         <h3>Desarrollador de aplicaciones web</h3>
         <p>
-            Tengo 21 años, soy técnico superior en desarrollo de aplicaciones web y administrador de Sistemas Operativos.
+            Tengo 21 años, soy técnico superior en Desarrollo de Aplicaciones web y administrador de Sistemas Operativos.
         </p>
         <p>
-            El diseño y el desarrollo web no es sólo mi carrera, sino también mi hobby desde que empecé en la informática.
+            En el ámbito de la informática lo que más me gusta es desarrollar y diseñar, hacer mis ideas realidad.
         </p>
         <p>
-            Me gusta todo lo relacionado con la tecnología. Sobretodo el mundo de la programación.
+            En definitiva, soy un informático amante de la programación sin miedo de seguir aprendiendo nuevas tecnologías y metodologías.
         </p>
     </div>
 
-     <div class="textoMain2 textoMainAll" style="display:none">
+     <div class="textoMain2 textoMainAll">
         <h3>Conocimientos</h3>
         <p>
             Lenguajes.
