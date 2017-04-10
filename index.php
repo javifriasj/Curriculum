@@ -54,7 +54,7 @@
         </p>
     </div>
 
-     <div class="textoMain2 textoMainAll">
+     <div class="textoMain2 textoMainAll" style="display:none">
         <h3>Conocimientos</h3>
         <p>
             Lenguajes.
