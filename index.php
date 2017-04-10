@@ -28,7 +28,6 @@
 
 <body id="page-top" class="index">
 
-<div class="container">
 <header>
     <h3>Javier Frías Jiménez</h3>
     <nav>
@@ -109,7 +108,6 @@
         </nav>
     </div>
 </footer>
-</div>
 
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
