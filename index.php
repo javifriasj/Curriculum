@@ -28,6 +28,7 @@
 
 <body id="page-top" class="index">
 
+<div class="container">
 <header>
     <h3>Javier Frías Jiménez</h3>
     <nav>
@@ -49,7 +50,7 @@
             El diseño y el desarrollo web no es sólo mi carrera, sino también mi hobby desde que empecé en la informática.
         </p>
         <p>
-            Me gusta todo lo relacionado con la tecnología. sobretodo el mundo de la programación.
+            Me gusta todo lo relacionado con la tecnología. Sobretodo el mundo de la programación.
         </p>
     </div>
 
@@ -108,6 +109,7 @@
         </nav>
     </div>
 </footer>
+</div>
 
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
