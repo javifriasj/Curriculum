@@ -83,7 +83,7 @@
     </div>
 </div>
     <div class="imgMain">
-        <img class="img-circle" src="Images/foto.PNG">
+        <img class="rounded-circle" src="Images/foto.PNG">
         <ul style="width: 0px">
             <li></li>
             <li></li>
