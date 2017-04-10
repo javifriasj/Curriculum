@@ -33,7 +33,9 @@
     <h3>Javier Frías Jiménez</h3>
     <nav>
         <ul>
-            <li class="active"><a href="">Sobre mí</a></li>
+            <li class="active"><a href="#id1">Sobre mí</a></li>
+            <li><a href="#id2">Formación</a></li>
+            <li><a href="#id3">Conocimientos</a></li>
             <li><a href="">Contacto</a></li>
         </ul>
     </nav>
@@ -41,7 +43,7 @@
 
 <main>
 <div class="textoMain">
-    <div class="textoMain1 textoMainAll">
+    <div class="textoMain1 textoMainAll" div="id1">
         <h3>Desarrollador de aplicaciones web</h3>
         <p>
             Tengo 21 años, soy técnico superior en Desarrollo de Aplicaciones web y administrador de Sistemas Operativos.
@@ -54,7 +56,7 @@
         </p>
     </div>
 
-     <div class="textoMain2 textoMainAll">
+     <div class="textoMain2 textoMainAll" div="id3">
         <h3>Conocimientos</h3>
         <p>
             Lenguajes.
